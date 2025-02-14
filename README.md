@@ -6,7 +6,7 @@ This is a Spring Boot API that provides endpoints for managing diagnostics and r
 - CRUD operations for diagnostics (`Diagnostico`)  
 - OpenAPI documentation via **Swagger UI**  
 - RESTful endpoints following best practices  
-- Swagger url: http://localhost:8080/api/v1/back-group6/swagger-ui/index.html
+- Swagger url: http://localhost:8085/api/v1/back-group6/swagger-ui/index.html
 
 ## 🛠️ Technologies Used  
 - **Spring Boot 2.x / 3.x**  
@@ -18,7 +18,7 @@ This is a Spring Boot API that provides endpoints for managing diagnostics and r
 ## 🚀 Getting Started  
 
 ### 1️⃣ Prerequisites  
-- Java 11+  
+- Java 8+  
 - MySQL database  
 - Maven  
 
